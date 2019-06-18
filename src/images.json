@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "href": "/assets/1.jpg",
+    "href": "./assets/1.jpg",
     "clicked": false
   },
   {
