@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#scores {
+    padding: 3px;
+    background-color: #9059a0;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+h2 {
+    padding: 3px;
+}
+
+span {
+    color: yellow;
+    color: GRAY;
+    padding: 10PX;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    background-color: YELLOW;
+    color: GRAY;
+    margin-bottom: 0;
+    border-bottom: 3px dashed white;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 78px;
+}
+
+#wrapper {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.result {
+    margin: 20px;
+    text-align: center;
+    color: red;
+}

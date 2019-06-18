@@ -1,0 +1,19 @@
+.image {
+  float:left;
+  margin:5px;
+  padding:1px;
+}
+
+img {
+  
+ box-shadow: 5px 5px 2px #aaaaaa;
+}
+
+img {
+  border:5px solid white;}
+
+
+  img:hover {
+    box-shadow: none;
+  }
+
